@@ -1,5 +1,5 @@
-<h1>Hi, I'm Brittney!  <a href="https://www.linkedin.com/in/brittney-lightfoot/">Cybersecurity Professional</a>
-<h2>👩🏾‍💻 Cybersecurity Projects</h2>
+<h1>Hi, I'm Brittney!  <a href="https://www.linkedin.com/in/brittney-lightfoot/">Software Engineer Apprentice</a>
+<h2>👩🏾‍💻 Projects</h2>
 
   - [CTI Project: Using a Discord as a Threat Intelligence Dashboard](https://github.com/laburl1/Algorithms-Practice)
 
